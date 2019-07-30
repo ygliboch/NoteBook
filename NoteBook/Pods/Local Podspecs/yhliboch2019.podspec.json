@@ -1,0 +1,28 @@
+{
+  "name": "yhliboch2019",
+  "version": "0.1.0",
+  "summary": "hello",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ygliboch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ygliboch": "yhliboch@student.unit.ua"
+  },
+  "source": {
+    "git": "https://github.com/ygliboch/yhliboch2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.2"
+  },
+  "swift_versions": "5.0",
+  "source_files": "yhliboch2019/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "CoreData"
+  ],
+  "swift_version": "5.0"
+}

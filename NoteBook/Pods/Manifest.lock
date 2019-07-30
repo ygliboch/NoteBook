@@ -1,0 +1,16 @@
+PODS:
+  - yhliboch2019 (0.1.0)
+
+DEPENDENCIES:
+  - yhliboch2019 (from `lib/`)
+
+EXTERNAL SOURCES:
+  yhliboch2019:
+    :path: lib/
+
+SPEC CHECKSUMS:
+  yhliboch2019: d55b202c0bee01f043de1ad8e282e317b9ccfe17
+
+PODFILE CHECKSUM: a01ad31e809ab03a6e5953550c32ed357b0ea39f
+
+COCOAPODS: 1.7.3
